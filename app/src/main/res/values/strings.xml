@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_apple">The Big Apple is a nickname given to Washington D.C in 1971.</string>
+    <string name="question_muddy">Muddy York is a nickname for New York in the Winter.</string>
+    <string name="question_peanuts">Peanuts are not nuts</string>
+    <string name="question_sleep">People may sneeze or cough while sleeping deeply.</string>
+    <string name="question_copyright">Copyrights depreciate over time.</string>
+    <string name="question_emus">Emus can\'t fly.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgement_toast">Cheating is wrong.</string>
+</resources>
